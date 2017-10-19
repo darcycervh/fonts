@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+}
+h2::before{
+    content: "hola";
+}
+p{
+    font-family: Calibri, serif;
+    font-size: 30px;
+}/*
+h1 span{
+    color:orange;
+    font-size: 30px;
+
+}*/
+.icon-pacman{
+    color: blue;
+}
+.gato1{
+    width: 256px;
+    height: 256px;
+    background: url('assets/images/css_sprites.png')-10px -10px;
+}
